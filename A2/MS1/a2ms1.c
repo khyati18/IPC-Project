@@ -15,6 +15,7 @@
 #include <stdio.h>
 
 #include "accountTicketingUI.h"
+#include "ticket.h"
 
 // -----------------------------------------------------------------------------------
 // System Data Array sizes
